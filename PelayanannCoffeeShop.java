@@ -13,13 +13,9 @@ public class PelayanannCoffeeShop {
         LocalTime localTime = LocalTime.now();
 
         // VARIABEL DAN TIPE DATA
-        String nama_pelanggan, nomor_kontak, status_reservasi, nama_pegawai, metide_pembayaran, catatan;
+        String nama_pelanggan, status_reservasi, nama_pegawai, metode_pembayaran, catatan;
         int nomor_meja, jumlah_tamu, kapasitas, total_harga;
         DateTimeFormatter tanggal, waktu;
         boolean konfirmasi;
-
-
-
-
     }
 }
